@@ -1,0 +1,9 @@
+0. ALle Persotexte für Gäste anlegen
+1. Anfangsbild passt nicht für alle  Formate
+2. Zeitstrahl passt nicht ganz
+
+
+5. Lila blur effekt entfernen bei Landingpage Fotos. Ich check net wie des geht da war ein img drin das sah aus wie das lila das erscheint aber des hab ich gelöscht. 
+     ich checks echt net
+=> also soll dann das Bild einfach direkt schon da sein?
+
