@@ -564,7 +564,7 @@ document.addEventListener("DOMContentLoaded", function() {
 loginButton.addEventListener("click", (e) => {
     e.preventDefault();
 
-    var username = loginForm.username.value;
+    var username = loginForm.username.value.toLowerCase();;
     var password = loginForm.password.value;
 
     if(window.localStorage.getItem('username') && window.localStorage.getItem('password')) {
@@ -574,7 +574,6 @@ loginButton.addEventListener("click", (e) => {
 
     
     let authObj = userdb.find(o => o.name === username);
-    console.log(authObj);
     try {
         if (username === authObj.name && password === authObj.pw) {
             document.getElementById("welcomeText").innerHTML = authObj.wtext;
@@ -662,6 +661,7 @@ function showConfetti() {
 
 
 var count = 200;
+
 var defaults = {
   origin: { y: 0.7 }
 };
