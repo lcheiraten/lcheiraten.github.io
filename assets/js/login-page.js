@@ -348,7 +348,7 @@ const userdb = [
     {
       name: "mammutis",
       pw: "freiberg",
-      wtext: "Liebe Lindit, Lieber Luta, Jasin",
+      wtext: "Liebe Lindita, Lieber Luta und Lieber Jasin",
       anrede: "Euch",
       anrede2: "gebt",
       anrede3: "ihr kommen könnt",
