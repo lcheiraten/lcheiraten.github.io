@@ -284,7 +284,7 @@ const userdb = [
     },
     {
       name: "schaffner",
-      pw: "fckoeln",
+      pw: "abc",
       wtext: "Liebe Lydia, Lieber Hans",
       anrede: "Euch",
       anrede2: "gebt",
@@ -560,6 +560,24 @@ const userdb = [
       anrede2: "gib",
       anrede3: "du kommen kannst",
       absender: "Athene"
+    },
+    {
+      name: "keno",
+      pw: "djkeno",
+      wtext: "Lieber Keno",
+      anrede: "Dir",
+      anrede2: "gib",
+      anrede3: "du kommen kannst",
+      absender: "DJ Keno"
+    },
+    {
+      name: "akmn",
+      pw: "privet",
+      wtext: "Liebe Anna, Kirill, Miroslava und Nikita",
+      anrede: "Euch",
+      anrede2: "gebt",
+      anrede3: "ihr kommen könnt",
+      absender: "LidlesEisele"
     }
   ]
 
